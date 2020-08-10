@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="himbauan">Himbauan COVID-19</string>
+    <string name="cuci_tangan">Tata Cara Cuci Tangan Dengan Benar</string>
+    <string name="pakai_masker">Tata Cara Memakai Masker Dengan Benar</string>
+    <string name="pola_hidup">Pola Hidup Sehat Saat Tatanan BAru</string>
+    <string name="hindari_covid">Hindari COVID-19</string>
+</resources>
