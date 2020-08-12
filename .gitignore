@@ -1,7 +1,7 @@
-*.iml
-*.bat
-*.gradle
-*.properties
+/*.iml
+/*.bat
+/*.gradle
+/*.properties
 /gradlew
 /.gradle
 /.idea
