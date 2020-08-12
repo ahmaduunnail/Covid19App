@@ -1,8 +1,9 @@
 /*.iml
 /*.bat
-/*.gradle
-/*.properties
+build.gradle
+gradle.properties
 /gradlew
+/gradle
 /.gradle
 /.idea
 /local.properties
